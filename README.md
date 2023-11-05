@@ -3,7 +3,7 @@ A modern inspired recreation of the 'Classic Aussie' MCA joystick.   This type o
 
 **Background**
 
-This project was began over a year ago after seeing 3d printed examples from a good friend and exceptionally talented **cm_au** - who showed me how effective 3d design and printing can be in the 'real world' to not only replace difficult to source industrial parts but also improve faults in original designs.  
+This collabration project began over a year ago after seeing 3d printed examples from a good friend and exceptionally talented **cm_au** - who showed me how effective 3d design and printing can be in the 'real world' to not only replace difficult to source industrial parts but also improve faults in original designs.  
 
 While completely blown away by they quality of prints coming out of high end home 3d printers combined with the inifinte possibilities from  3d scanners - I'd been musing over what projects would be a good one to get started on to learn more about the world of 3d printing.
 
@@ -23,7 +23,7 @@ However...
 
 No one has yet attempted to design a completely new joystick that captures in part the 'look and feel' of these aussie joysticks using a combination of commonly available arcade parts (shafts, smaller ball-tops) and custom 3d printable shapes which will hopefully help bring them back to life for others to try out and compare :)
 
-
+This project would have not been made possible without the excellent 3d design, scanning, printing (... so so much printing), guidence and support provided by cm_au to help bring the initial solution ideas and hand-drawings to life! 
 
 **More soon**
 The first few 3d prints are now being tested, with photos to be posted soon.
