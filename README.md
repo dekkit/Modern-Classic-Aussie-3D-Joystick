@@ -34,7 +34,7 @@ You will need to purchase these standard arcade parts and accessories from your 
 - 1 x E-clip for JLF Shaft
 - 2 x Shaft Extenders
 - 4 x Arcade micro switches (levered)
-- 4 x Screws (self tapping) -  7g (3.9mm) of 25 length or 8g (4.2mm) of 25mm length - the head screen diameter can be in the range of 6.5mm to 8mm
+- 4 x Screws (self tapping) -  7g (3.9mm) of 25 length or 8g (4.2mm) of 25mm length - the head diameter can be in the range of 6.5mm to 8mm
 
   
 **Printable 3D Files (.STL) and Printing Instructions**
