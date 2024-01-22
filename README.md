@@ -27,6 +27,7 @@ While aiming to preserve this style of joystick, I also wanted to provide retro 
 
 
 **Parts List**
+
 You will need to purchase these standard arcade parts and accessories from your preferred retailer (or if lucky, you may have these in your spare parts drawer): 
 - 1 x Seimitsu LB-30 Ball Top Handle (or a suitable 30mm knob/balltop with M6 thread) 
 - 1 x Standard JLF Shaft
@@ -37,6 +38,7 @@ You will need to purchase these standard arcade parts and accessories from your 
 
   
 **Printable 3D Files (.STL) and Printing Instructions**
+
 You will need to print the following custom files (PLA works very well) 
 ...coming soon
 
