@@ -56,4 +56,4 @@ You will need to print the following custom files (PLA works very well)
 **Acknowledgements**
 This project would have not been made possible without the excellent initial 3d scanning, 3d design, 3d printing (... so so much printing), guidance and support provided by cm_au to help bring the initial solution ideas and hand-drawings to life!  This also gave me time to skill up on 3d modelling software so i could further refine the look and feel of the joystick and after initial play testing.   Also a shout out to Monty on aussie arcade forums for posting his 3d printable MCA bush which was also leveraged in this design (with permission). 
 
-(Last updated 22/01/2024)
+(Last updated 24/01/2024)
