@@ -44,14 +44,16 @@ You will need to print the following custom files (PLA works very well)
 
 **Assembly Diagram - Main Assembly**
 
-![postwatermark_assemblydiagram](https://github.com/dekkit/Modern-Classic-Aussie-3D-Joystick/assets/32017349/b1760d30-89e4-4812-bfc5-ace16fdb84d7)
+![postwatermark_assemblydiagram - 2](https://github.com/dekkit/Modern-Classic-Aussie-3D-Joystick/assets/32017349/cfc87557-4b0b-4bd1-916c-fb52b2faf57b)
+
 
 **Assembly Diagram - Joystick Shaft**
 
-![postwatermark_assemblydiagram_ball_JLF](https://github.com/dekkit/Modern-Classic-Aussie-3D-Joystick/assets/32017349/c7af916b-b9a5-4187-a6f5-73a22ac7b4e1)
+![postwatermark_assemblydiagram_ball_JLF - 2](https://github.com/dekkit/Modern-Classic-Aussie-3D-Joystick/assets/32017349/e242bf9c-43cd-40e4-9e1c-e296a63b0a2b)
+
 
 
 **Acknowledgements**
-This project would have not been made possible without the excellent initial 3d scanning, 3d design, 3d printing (... so so much printing), guidence and support provided by cm_au to help bring the initial solution ideas and hand-drawings to life!  This also gave me time to skill up on 3d modelling software so i could further refine the look and feel of the joystick and after initial play testing.   Also a shout out to Monty on aussie arcade forums for posting his 3d printable MCA bush which was also leveraged in this design (with permission). 
+This project would have not been made possible without the excellent initial 3d scanning, 3d design, 3d printing (... so so much printing), guidance and support provided by cm_au to help bring the initial solution ideas and hand-drawings to life!  This also gave me time to skill up on 3d modelling software so i could further refine the look and feel of the joystick and after initial play testing.   Also a shout out to Monty on aussie arcade forums for posting his 3d printable MCA bush which was also leveraged in this design (with permission). 
 
 (Last updated 22/01/2024)
