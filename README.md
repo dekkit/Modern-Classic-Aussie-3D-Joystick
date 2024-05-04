@@ -6,6 +6,8 @@ Download 3D printable files https://github.com/dekkit/Modern-Classic-Aussie-3D-J
 
 If you'd like to financially contribute to this project, you can buy us a coffee here: https://www.buymeacoffee.com/dekkit (all donations very much appreciated!)
 
+Feel free to join the discussion forum over at https://www.aussiearcade.com/topic/102870-the-3d-printable-mca-joystick-project-mca-3d/
+
 **Project Background**
 
 This collabration project began early 2023 after seeing 3d printed examples from a good friend and exceptionally talented **cm_au** - who showed me the effectiveness of 3d design and printing in the 'real world' to not only replace difficult to source industrial parts but also improve faults in original designs.  
