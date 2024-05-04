@@ -39,8 +39,20 @@ You will need to purchase these standard arcade parts and accessories from your 
   
 **Printable 3D Files (.STL) and Printing Instructions**
 
-You will need to print the following custom files (PLA works very well) 
-...coming soon
+You will need to print the following custom files which should be compatible with most home 3d printers using 1.75mm filament.  In our examples above, we used PLA and printed parts using supports (with the exception of the bush which used TPU).
+- Shaft-Cover (PLA) 
+- Dust-Cover (PLA)
+- Actuator (PLA)
+- Bush (TPU) - This needs to be rubbery/flexible to enable the joystick to move yet firm enough to return the shaft to the centre zone.
+
+  **It is recommended to use TPU, 15% infill density and the lines pattern**.
+
+  Tip: You can experiment with the bush softness by adjusting the infill. When I previously used 20% infill, it was far too rigid.  To avoid the need to reprint, you can also easily soften TPU by placing the printed bush into boiling water for 15-20 minutes.
+- Main-Assembly-Microswitch (PLA)
+- Main-Assembly-Mounting-Plate (PLA) - Print face down, with supports.
+- Restrictor-Gate (PLA)
+
+
 
 **Assembly Diagram - Main Assembly**
 
@@ -56,4 +68,4 @@ You will need to print the following custom files (PLA works very well)
 **Acknowledgements**
 This project would have not been made possible without the excellent initial 3d scanning, 3d design, 3d printing (... so so much printing), guidance and support provided by cm_au to help bring the initial solution ideas and hand-drawings to life!  This also gave me time to skill up on 3d modelling software so i could further refine the look and feel of the joystick and after initial play testing.   Also a shout out to Monty on aussie arcade forums for posting his 3d printable MCA bush which was also leveraged in this design (with permission). 
 
-(Last updated 24/01/2024)
+(Last updated 04/MAY/2024)
