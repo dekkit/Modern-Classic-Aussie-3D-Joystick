@@ -1,6 +1,7 @@
 # The Modern 'Classic Aussie' 3D Joystick
 A modern inspired recreation of the 'Classic Aussie' MCA joystick that can be reproduced using household 3D printing.   This type of joystick was used extensively in Australian arcades during the 80's and 90's.
 
+Download 3D printable files https://github.com/dekkit/Modern-Classic-Aussie-3D-Joystick/releases
 ![postwatermark-3djoy](https://github.com/dekkit/Modern-Classic-Aussie-3D-Joystick/assets/32017349/19ab1887-051b-453d-891d-0f47b0f9aca4)
 
 If you'd like to financially contribute to this project, you can buy us a coffee here: https://www.buymeacoffee.com/dekkit (all donations very much appreciated!)
